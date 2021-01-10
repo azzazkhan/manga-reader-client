@@ -1,0 +1,2 @@
+# Prevent formating minified files
+*.min.*
