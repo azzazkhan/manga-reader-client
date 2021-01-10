@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Exo+2:400,500,700|Lato:400,900|Lobster");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css");
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: none !important;
+}
+
+:root {
+  --color-page: #e5e5e5;
+  --font-primary: "Exo 2", "Exo", sans-serif;
+  --font-secondary: "Lato", "Open Sans", "Roboto", sans-serif;
+  --font-display: "Lobster", sans-serif;
+}
+
+body {
+  background-color: var(--color-page);
+  font-family: var(--font-primary);
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+.font {
+  &-primary {
+    font-family: var(--font-primary);
+  }
+  &-secondary {
+    font-family: var(--font-secondary);
+  }
+  &-display {
+    font-family: var(--font-display);
+  }
+}
