@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Boss in School",
+    "slug": "boss-in-school",
+    "categories": ["action", "school-life"],
+    "status": "completed",
+    "clicks": 3737482,
+    "authors": ["Loo Hoon Young"],
+    "likes": 964
+  },
+  {
+    "title": "Rooftop Sword Master",
+    "slug": "rooftop-sword-master",
+    "categories": ["action", "fantasy"],
+    "status": "ongoing",
+    "clicks": 3010501,
+    "authors": [],
+    "likes": 1594
+  },
+  {
+    "title": "Legend of the Northern Blade",
+    "slug": "legend-of-the-northern-blade",
+    "categories": ["action", "adventure", "fantasy", "shounen"],
+    "status": "ongoing",
+    "clicks": 2258814,
+    "authors": ["Legend of the Northern"],
+    "likes": 1200
+  },
+  {
+    "title": "I Stack Experience Through Writing Books",
+    "slug": "i-stack-experience-through-writing-books",
+    "categories": ["adventure", "drama", "fantasy", "manhua"],
+    "status": "ongoing",
+    "clicks": 2149105,
+    "authors": [],
+    "likes": 920
+  },
+  {
+    "title": "The Boxer",
+    "slug": "the-boxer",
+    "categories": ["action", "sports", "martial-arts"],
+    "status": "ongoing",
+    "clicks": 2004595,
+    "authors": ["Jihoon Jung"],
+    "likes": 1011
+  },
+  {
+    "title": "The Great Mage Returns After 4000 Years",
+    "slug": "the-great-mage-returns-after-4000-years",
+    "categories": ["action", "fantasy", "manhua"],
+    "status": "ongoing",
+    "clicks": 1992961,
+    "authors": ["Barnacle"],
+    "likes": 1506
+  },
+  {
+    "title": "The Beginning After the End",
+    "slug": "the-beginning-after-the-end",
+    "categories": ["action", "adventure", "comedy", "drama"],
+    "status": "ongoing",
+    "clicks": 1707549,
+    "authors": ["Fuyuki23", "TurtleMe"],
+    "likes": 0
+  }
+]

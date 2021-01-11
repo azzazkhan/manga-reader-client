@@ -17,7 +17,7 @@
     />
     <img
       v-else
-      :src="require(`@/assets/img/icon-${icon}-purple.svg`)"
+      :src="require(`@/assets/img/icons/${icon}-purple.svg`)"
       alt="Bell Icon"
     />
     <span class="ml-2 lg:hidden lg:m-0" v-text="label"></span>
