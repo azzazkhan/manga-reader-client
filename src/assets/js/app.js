@@ -1,3 +1,1 @@
-window.jQuery(function($) {
-  $(".owl-carousel").owlCarousel();
-});
+// Add custom JavaScript here

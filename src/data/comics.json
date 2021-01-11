@@ -29,7 +29,7 @@
   {
     "title": "I Stack Experience Through Writing Books",
     "slug": "i-stack-experience-through-writing-books",
-    "categories": ["adventure", "drama", "fantasy", "manhua"],
+    "categories": ["adventure", "drama", "fantasy", "manhwa"],
     "status": "ongoing",
     "clicks": 2149105,
     "authors": [],
@@ -47,7 +47,7 @@
   {
     "title": "The Great Mage Returns After 4000 Years",
     "slug": "the-great-mage-returns-after-4000-years",
-    "categories": ["action", "fantasy", "manhua"],
+    "categories": ["action", "fantasy", "manhwa"],
     "status": "ongoing",
     "clicks": 1992961,
     "authors": ["Barnacle"],
@@ -61,5 +61,32 @@
     "clicks": 1707549,
     "authors": ["Fuyuki23", "TurtleMe"],
     "likes": 0
+  },
+  {
+    "title": "Murim Login",
+    "slug": "murim-login",
+    "categories": ["action", "adventure", "fantasy", "manhwa"],
+    "status": "ongoing",
+    "clicks": 1329077,
+    "authors": [],
+    "likes": 929
+  },
+  {
+    "title": "The Undefeatable Swordsman",
+    "slug": "the-undefeatable-swordsman",
+    "categories": ["action", "adventure", "old-era", "swords"],
+    "status": "ongoing",
+    "clicks": 1223357,
+    "authors": [],
+    "likes": 781
+  },
+  {
+    "title": "Warble",
+    "slug": "warble",
+    "categories": ["action", "adventure", "drama", "fantasy", "supernatural"],
+    "status": "ongoing",
+    "clicks": 1207989,
+    "authors": ["Cracker"],
+    "likes": 680
   }
 ]

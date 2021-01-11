@@ -50,7 +50,7 @@ export default {
       "Fantasy",
       "Harem",
       "Isekai",
-      "Manhua",
+      "Manhwa",
       "Mature",
       "Mystery",
       "Romance",
