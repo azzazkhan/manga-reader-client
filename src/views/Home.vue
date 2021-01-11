@@ -1,14 +1,14 @@
 <template>
-  <div id="HomeView"></div>
+  <div id="HomeView">
+    <CardsGrid />
+  </div>
 </template>
 
 <script>
-import comics from "@/data/comics.json";
+import CardsGrid from "@/components/Cards/Grid";
 
 export default {
   name: "Home",
-  data: () => ({
-    comics,
-  }),
+  components: { CardsGrid },
 };
 </script>
