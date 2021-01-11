@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="lg:col-span-2 xl:col-span-1">
     <h2
-      class="mb-2 text-3xl font-semibold tracking-wide uppercase font-primary"
+      class="mb-5 text-3xl font-semibold tracking-wide uppercase font-primary"
     >
       Recent Posts
     </h2>

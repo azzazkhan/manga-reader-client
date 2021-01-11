@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-stretch justify-start space-y-16">
+  <div class="flex flex-col items-stretch justify-start space-y-10">
     <div>
       <h2
         class="mb-5 text-3xl font-semibold tracking-wide uppercase font-primary"
