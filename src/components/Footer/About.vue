@@ -1,7 +1,6 @@
 <template>
   <div
     class="flex flex-col space-y-4 text-gray-400 md:col-span-2 text font-secondary xl:col-span-1"
-    style="font-size: 1.05rem"
   >
     <router-link to="/">
       <img
@@ -29,3 +28,11 @@ export default {
   name: "FooterAboutWidget",
 };
 </script>
+
+<style scoped>
+@media screen and (min-width: 1536px) {
+  p {
+    font-size: 1.05rem;
+  }
+}
+</style>

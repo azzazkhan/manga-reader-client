@@ -1,5 +1,8 @@
 <template>
-  <header class="flex px-10 py-2 bg-indigo-600 shadow-xl select-none secondary">
+  <header
+    class="flex px-10 py-2 bg-indigo-600 shadow-xl select-none secondary"
+    id="SubHeaderComponent"
+  >
     <span
       v-for="(item, index) in items"
       :key="index"
@@ -20,6 +23,3 @@ export default {
   },
 };
 </script>
-
-<style>
-</style>

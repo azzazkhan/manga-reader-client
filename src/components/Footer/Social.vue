@@ -2,7 +2,7 @@
   <div class="flex flex-col items-stretch justify-start space-y-10">
     <div>
       <h2
-        class="mb-5 text-3xl font-semibold tracking-wide uppercase font-primary"
+        class="mb-5 text-2xl font-semibold tracking-wide uppercase 2xl:text-3xl font-primary"
       >
         Follow Us
       </h2>
@@ -19,7 +19,7 @@
         >
           <img
             :src="require(`@/assets/img/social/${network.toLowerCase()}.svg`)"
-            style="height: 72px; width: 72px"
+            class="icon"
             :alt="network.replace('-', ' ')"
           />
         </span>
@@ -27,7 +27,7 @@
     </div>
     <div>
       <h2
-        class="mb-5 text-3xl font-semibold tracking-wide uppercase font-primary"
+        class="mb-5 text-2xl font-semibold tracking-wide uppercase 2xl:text-3xl font-primary"
       >
         Download our app
       </h2>
@@ -39,7 +39,7 @@
         >
           <img
             :src="require(`@/assets/img/social/${network.toLowerCase()}.svg`)"
-            style="height: 72px; width: 72px"
+            class="icon"
             :alt="network"
           />
         </span>
@@ -53,3 +53,16 @@ export default {
   name: "FooterSocialLinks",
 };
 </script>
+
+<style scoped>
+.icon {
+  height: 64px;
+  width: 64px;
+}
+@media screen and (min-width: 1536px) {
+  .icon {
+    height: 72px;
+    width: 72px;
+  }
+}
+</style>

@@ -1,7 +1,7 @@
 <template>
   <footer class="pt-10 text-white">
     <div
-      class="grid grid-cols-1 gap-10 mx-10 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
+      class="grid grid-cols-1 gap-10 mx-10 lg:gap-5 lg:mx-5 2xl:mx-10 2xl:gap-10 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4"
     >
       <about-widget />
       <links-widget />
